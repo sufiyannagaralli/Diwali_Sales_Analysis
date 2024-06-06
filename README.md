@@ -1,1 +1,2 @@
 # Diwali_Sales_Analysis
+Conducted an Exploratory Data Analysis (EDA) on Diwali sales data using Python, pandas, and matplotlib. Analyzed customer demographics, product categories, and purchase patterns to identify key sales trends. Found that married women aged 26-35 from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation, are the primary buyers of food, clothing, and electronics.
